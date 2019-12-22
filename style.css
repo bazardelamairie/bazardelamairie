@@ -1,0 +1,109 @@
+
+
+h1
+{
+    color: white;
+}
+
+h2
+{
+    color: white;
+}
+
+a
+{
+    color: blue;
+
+}
+
+
+h3
+{
+    color: black;
+}
+
+li
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+
+body
+{
+    background-color: grey;
+    background: white;
+    color: grey;
+    font-family: "Loki Colas", sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+#acceuil
+{
+
+    width: 800px;
+    margin:0 auto;
+    background-color: #696969 ;
+    text-align: center;
+    align-content: center;
+}
+
+
+h1
+{
+    color: white;
+}
+
+h2
+{
+    color: white;
+}
+
+
+
+h3
+{
+    color: black;
+}
+
+li
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+
+body
+{
+    background-color: grey;
+}
+
+
+
+#photo
+{
+
+    width: 800px;
+    margin:0 auto;
+    background-color: #696969 ;
+    text-align: center;
+    align-content: center;
+}
+
+h1 
+{
+  color: black;
+
+}
