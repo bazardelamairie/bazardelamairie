@@ -98,15 +98,15 @@ nav.menu-nav ul li.btn{
 
 nav.menu-nav ul li.btn a{
 	color: #fff;
-	background-color: red;
+	background-color: #696969;
 	text-decoration: none;
 	padding: 10px;
 	font-size: 20px;
 }
 
 nav.menu-nav ul li.btn:hover a{
-	color: red;
-	background-color: white;
+	color: #696969;
+	background-color: #fff;
 	transition: 0.3s all;
 }
 
